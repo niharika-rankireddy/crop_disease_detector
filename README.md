@@ -103,8 +103,8 @@ dependencies:
 
 ## Team
 
-**Niharika Rankireddy** 
-**Sai Krishna**
-**Preethi**
+-**Niharika Rankireddy** 
+-**Sai Krishna**
+-**Preethi**
 
 
