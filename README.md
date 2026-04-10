@@ -1,39 +1,21 @@
-# crop_disease_detector
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
-# 🌿 Crop Disease Detector
+# Crop Disease Detector
 
 A cross-platform Flutter application that detects crop diseases from leaf images using an on-device TensorFlow Lite (TFLite) model. Farmers and agricultural users can capture or upload a photo of a crop leaf and instantly get a disease prediction — no internet required.
 
 ---
 
-## 📱 Features
+## Features
 
-- 📷 Pick images from gallery or capture using camera
-- 🤖 On-device ML inference using TensorFlow Lite (no internet needed)
-- 🌾 Detects multiple crop diseases from leaf images
-- ⚡ Fast and lightweight — runs entirely on the device
-- 🖥️ Supports Android, iOS, Web, Linux, macOS, and Windows (Flutter multiplatform)
+- Pick images from gallery or capture using camera
+- On-device ML inference using TensorFlow Lite (no internet needed)
+- Detects multiple crop diseases from leaf images
+- Fast and lightweight — runs entirely on the device
+- Supports Android, iOS, Web, Linux, macOS, and Windows (Flutter multiplatform)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -44,7 +26,7 @@ A cross-platform Flutter application that detects crop diseases from leaf images
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 
@@ -65,7 +47,7 @@ crop_disease_detector/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -93,7 +75,7 @@ crop_disease_detector/
 
 ---
 
-## 🧠 ML Model
+##  ML Model
 
 The app uses a `.tflite` image classification model stored locally in the `assets/` folder.
 
@@ -105,7 +87,7 @@ The app uses a `.tflite` image classification model stored locally in the `asset
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 ```yaml
 dependencies:
@@ -119,28 +101,10 @@ dependencies:
 
 ---
 
-## 🤝 Contributing
+## Team
 
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m 'Add your feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is open source. Add a license of your choice (MIT recommended).
-
----
-
-## 👩‍💻 Author
-
-**Niharika Rankireddy**  
-[GitHub Profile](https://github.com/niharika-rankireddy)
-```
+**Niharika Rankireddy** 
+**Sai Krishna**
+**Preethi**
 
 
