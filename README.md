@@ -101,10 +101,5 @@ dependencies:
 
 ---
 
-## Team
-
--**Niharika Rankireddy** 
--**Sai Krishna**
--**Preethi**
 
 
